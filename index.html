@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hierarchy Organizer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">&#9776;</span>
+      <span class="brand-name">Hierarchy Organizer</span>
+    </div>
+
+    <div class="toolbar">
+      <label class="btn" for="csv-input">Upload CSV</label>
+      <input id="csv-input" type="file" accept=".csv" hidden>
+
+      <button id="add-platform-btn" class="btn">+ Platform</button>
+      <button id="export-csv-btn" class="btn">Export CSV</button>
+      <button id="export-png-btn" class="btn">Export PNG</button>
+      <button id="load-sample-btn" class="btn btn-ghost">Load Sample</button>
+      <button id="clear-btn" class="btn btn-danger-ghost">Clear All</button>
+    </div>
+
+    <div class="search-wrap">
+      <input id="search-input" type="search" placeholder="Search platforms, teams, members...">
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="chart-area" id="chart-area">
+      <svg id="chart-svg">
+        <g id="zoom-group"></g>
+      </svg>
+      <div id="empty-state" class="empty-state">
+        <p>No data yet.</p>
+        <p>Upload a CSV, load the sample dataset, or add a platform to get started.</p>
+      </div>
+      <div class="zoom-controls">
+        <button id="zoom-in" title="Zoom in">+</button>
+        <button id="zoom-reset" title="Reset view">&#9679;</button>
+        <button id="zoom-out" title="Zoom out">&minus;</button>
+      </div>
+    </section>
+
+    <aside class="side-panel" id="side-panel">
+      <div id="panel-empty" class="panel-empty">
+        <h3>Nothing selected</h3>
+        <p>Click a node in the chart to view or edit it, or use the buttons below.</p>
+      </div>
+      <div id="panel-content" class="panel-content" hidden></div>
+    </aside>
+  </main>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

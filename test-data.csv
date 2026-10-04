@@ -1,0 +1,88 @@
+Platform,Team,MemberFirst,MemberLast,Owner
+Atlas,Fraud,Omar,Nguyen,Elena Cruz
+Orion,QA,Noah,Khan,Jordan O'Neil
+Orion,Design Systems,Zoe,Nguyen,Jordan O'Neil
+Beacon,Growth,Mateo,Larsen,Priya Nair
+Atlas,Fraud,Isla,Reyes,Elena Cruz
+Atlas,Fraud,Priya,Kim,Elena Cruz
+Pulse,Customer Success,Ravi,Novak,Tomás Silva
+Beacon,Growth,Liam,Okafor,Priya Nair
+Pulse,Customer Success,Zoe,Novak,Tomás Silva
+Pulse,Customer Success,Diego,Novak,Tomás Silva
+Beacon,Lifecycle Marketing,Sam,Tanaka,Priya Nair
+Vault,Compliance,Sofia,Sharma,"Lee, Sandra"
+Atlas,Fraud,Liam,Reyes,Elena Cruz
+Nimbus,Developer Tools,Anika,Kim,Marcus Chen
+Helix,Data Science,Liam,Rossi,Dr. Amara Okoye
+Beacon,Lifecycle Marketing,Priya,Garcia,Priya Nair
+Atlas,Payments,Noah,Novak,Elena Cruz
+Orion,QA,Diego,Novak,Jordan O'Neil
+Vault,Security,Omar,Garcia,"Lee, Sandra"
+Helix,ML Platform,Anika,Novak,Dr. Amara Okoye
+Atlas,Fraud,Hana,Garcia,Elena Cruz
+Atlas,"Special ""Ops"", Tier 1",Jean-Luc,D'Angelo,Elena Cruz
+Nimbus,Observability,Sam,Tanaka,Marcus Chen
+Pulse,Support,Isla,Cohen,Tomás Silva
+Atlas,Fraud,Elena,Garcia,Elena Cruz
+Pulse,Customer Success,Diego,Kim,Tomás Silva
+Beacon,Growth,Mei,Khan,Priya Nair
+Helix,Research,Kenji,Okafor,Dr. Amara Okoye
+Helix,ML Platform,Elena,Patel,Dr. Amara Okoye
+Vault,Compliance,Nora,Nguyen,"Lee, Sandra"
+Orion,Mobile Android,Priya,Okafor,Jordan O'Neil
+Pulse,Support,Noah,Reyes,Tomás Silva
+Orion,Mobile Android,Zoe,Garcia,Jordan O'Neil
+Vault,,Solo,Member,"Lee, Sandra"
+Beacon,Analytics,Ines,Ivanov,Priya Nair
+Nimbus,Platform Infra,Isla,Rossi,Marcus Chen
+Orion,Mobile iOS,Tariq,Cohen,Jordan O'Neil
+Atlas,Payments,Yusuf,Nguyen,Elena Cruz
+Helix,Data Science,Isla,Müller,Dr. Amara Okoye
+Beacon,Analytics,Fatima,Garcia,Priya Nair
+Vault,IAM,Anika,Cohen,"Lee, Sandra"
+Orion,Design Systems,Aarav,Ivanov,Jordan O'Neil
+Orion,Design Systems,Nora,Kim,Jordan O'Neil
+Nimbus,Observability,Ravi,Ivanov,Marcus Chen
+Zephyr,Skunkworks,,,Ghost Owner
+Atlas,Billing,Priya,Khan,Elena Cruz
+Vault,IAM,Liam,Silva,"Lee, Sandra"
+Vault,Security,Omar,Ivanov,"Lee, Sandra"
+Orion,Mobile iOS,Liam,Garcia,Jordan O'Neil
+Nimbus,Observability,Arjun,Nguyen,Marcus Chen
+Beacon,Analytics,Sofia,Reyes,Priya Nair
+Helix,Data Science,Noah,Reyes,Dr. Amara Okoye
+Helix,Data Science,Ravi,Novak,Dr. Amara Okoye
+Beacon,Lifecycle Marketing,Zoe,Reyes,Priya Nair
+Zephyr,,,,Ghost Owner
+Orion,QA,Sam,Okafor,Jordan O'Neil
+Nimbus,Observability,Nora,Silva,Marcus Chen
+Vault,IAM,Anika,Sharma,"Lee, Sandra"
+Nimbus,Observability,Zoe,Reyes,Marcus Chen
+Vault,Compliance,Sofia,Tanaka,"Lee, Sandra"
+Nimbus,Platform Infra,Arjun,Okafor,Marcus Chen
+Helix,Data Science,Isla,Müller,Dr. Amara Okoye
+Orion,Mobile Android,Fatima,Novak,Jordan O'Neil
+Atlas,Billing,Arjun,Novak,Elena Cruz
+Orion,Mobile iOS,Nora,Larsen,Jordan O'Neil
+Atlas,Payments,Anika,Nguyen,Elena Cruz
+Vault,IAM,Noah,Kim,"Lee, Sandra"
+Orion,Design Systems,Anika,Rossi,Jordan O'Neil
+Pulse,Customer Success,Noah,Nguyen,Tomás Silva
+Beacon,Growth,Fatima,Khan,Priya Nair
+Atlas,Payments,Liam,Kim,Elena Cruz
+Pulse,Customer Success,Arjun,Tanaka,Tomás Silva
+Nimbus,Observability,Tariq,Garcia,Marcus Chen
+Vault,IAM,Nora,Novak,"Lee, Sandra"
+Beacon,Analytics,Mei,Tanaka,Priya Nair
+Orion,Mobile Android,Yusuf,Ivanov,Jordan O'Neil
+Atlas,Risk,Isla,Patel,Elena Cruz
+Nimbus,Developer Tools,Arjun,Silva,Marcus Chen
+Atlas,Billing,Yusuf,Nguyen,Elena Cruz
+Orion,Mobile iOS,Arjun,Ivanov,Jordan O'Neil
+Vault,IAM,Noah,Müller,"Lee, Sandra"
+Helix,ML Platform,Chloe,Khan,Dr. Amara Okoye
+Helix,ML Platform,Liam,Rossi,Dr. Amara Okoye
+Helix,Research,Zoe,Rossi,Dr. Amara Okoye
+Atlas,Risk,Fatima,Reyes,Elena Cruz
+Nimbus,Platform Infra,Isla,Kim,Marcus Chen
+Helix,ML Platform,Noah,Khan,Dr. Amara Okoye
